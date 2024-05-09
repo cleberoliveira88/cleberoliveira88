@@ -11,7 +11,7 @@ Repositório para armazenar recursos do Git e Github, do curso de versionamento 
 
 | Aulas  |  Resumos  |
 |--------|-----------|
-|Gravando alterações do repositório local | [Resumos]
+|Gravando alterações do repositório local | [Resumo]
 
 ```
 git init
